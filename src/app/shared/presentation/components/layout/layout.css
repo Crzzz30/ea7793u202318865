@@ -1,0 +1,28 @@
+.sidenav-container {
+  height: 100%;
+}
+
+mat-sidenav {
+  width: 250px;
+}
+
+mat-toolbar {
+  display: flex;
+  align-items: center;
+}
+
+.app-title{
+  margin-left: 1rem;
+}
+
+.spacer{
+  flex: 1 1 auto;
+}
+
+.page-content{
+  padding: 24px;
+}
+
+active-link{
+  font-weight: 600;
+}

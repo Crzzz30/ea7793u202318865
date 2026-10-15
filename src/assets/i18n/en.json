@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Home",
+    "description": "Smart Reservations and Capacity Management for Adventure Camps."
+  },
+  "navigation": {
+    "home": "Home",
+    "new-reservation": "New Reservation"
+  }
+}

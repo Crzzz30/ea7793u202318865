@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Inicio",
+    "description": "Reservas inteligentes y gestión de capacidad para campamentos de aventura."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "new-reservation": "Nueva Reserva"
+  }
+}

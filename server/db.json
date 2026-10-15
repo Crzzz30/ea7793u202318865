@@ -1,0 +1,14 @@
+{
+  "adventure-camps": [
+    {
+      "id": 1,
+      "name": "Mountain Adventure Camp",
+      "activityType": "walk",
+      "capacity": 50,
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    }
+  ],
+  "reservations": []
+}
+
